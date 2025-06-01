@@ -5,8 +5,8 @@ page-type: landing-page
 sidebar: learnsidebar
 ---
 
-{{PreviousMenuNext("学习Web 开发/入门模块/Web入门/发布你的网站", "学习Web 开发/入门模块", "学习Web 开发/入门模块/Web
-标准/万维网是如果工作的")}}
+{{PreviousMenuNext("学习Web 开发/入门模块/Web入门/发布你的网站", "学习Web 开发/入门模块", "学习Web 开发/入门模块/Web 标准/万维网是如果工作的")}}
+
 
 该模块涵盖了网络高层次运作的基础知识——包括用于通信的模型、所涉及的核心技术、这些技术的创建方式以及网络浏览器如何向用户呈现和显示网站。
 
@@ -29,5 +29,4 @@ sidebar: learnsidebar
 - [How browsers load websites](/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_browsers_load_websites)
   - : 在本文中，我们讨论了网站的渲染过程——当浏览器收到构成网站的文件和资产时，如何将它们组合在一起以创建与用户交互的最终体验。
 
-{{PreviousMenuNext("学习Web 开发/入门模块/Web入门/发布你的网站", "学习Web 开发/入门模块", "学习Web 开发/入门模块/Web
-标准/万维网是如果工作的")}}
+{{PreviousMenuNext("学习Web 开发/入门模块/Web入门/发布你的网站", "学习Web 开发/入门模块", "学习Web 开发/入门模块/Web 标准/万维网是如果工作的")}}
