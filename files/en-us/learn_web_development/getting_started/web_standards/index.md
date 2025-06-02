@@ -1,6 +1,6 @@
 ---
 title: Web 标准
-slug: 学习 Web 开发/入门模块/Web 标准
+slug: Learn/Getting started modules/Web standards
 page-type: landing-page
 sidebar: learnsidebar
 ---
@@ -20,12 +20,12 @@ sidebar: learnsidebar
 
 ## 教程
 
-- [万维网是如何工作的
-](/zh-CN/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
+- [万维网是如何工作的](/zh-CN/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
   - :本文提供了使用 Web 浏览器导航到网页时发生的情况的高级描述，解释了幕后发生的神奇过程，将相关代码传送到你的计算机，以便浏览器组装成你可以查看的内容。
-- [Web 和 Web 标准
-](/zh-CN/docs/Learn_web_development/Getting_started/Web_standards/The_web_standards_model)
+  
+- [Web 和 Web 标准](/zh-CN/docs/Learn_web_development/Getting_started/Web_standards/The_web_standards_model)
   - :本文提供了有关 Web 和 Web 标准的一些有用背景信息 — — 它们是如何产生的、什么是 Web 标准技术以及它们如何协同工作。
+
 - [How browsers load websites](/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_browsers_load_websites)
   - :在本文中，我们讨论了网站的渲染过程——当浏览器收到构成网站的文件和资产时，如何将它们组合在一起以创建与用户交互的最终体验。
 
